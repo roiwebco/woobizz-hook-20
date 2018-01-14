@@ -1,2 +1,2 @@
 # woobizz-hook-20
-Hide all notices on wp-admin
+Remove footer navigation bar
